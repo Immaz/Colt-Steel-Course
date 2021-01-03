@@ -1,0 +1,13 @@
+1.google use title of the website for search results 
+2.heading elements take whole line and push any other text on the other line
+3.nested lists items(code on line 22)
+4. Alt + shift + f to indent everything pretty & corretly(Vs Code)
+5. <Hr> make line in between just like divider in elementor
+6. <sup></sup> act as a power in maths, <sub></sub> act as numbers on chemistry elements(code on page 37)
+7. dont use reserved keywords like <, >, &. in HTML instead use entities like &copy;--> copyright symbol, &lt; --> less then sign(<)
+8. Html Semantics: using <nav>, <footer> elements instead of only <div>. It add more meaning to our code and it is good practice for SEO.
+9. use > to make child element in Emmet there are bunch more shortcut use emmet cheat sheet for more(docs.emmet.io/cheat-sheet)
+10. There are a lot of input types including date, color, range pickers learn more at (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
+11. <label for="car"></label> <input type="checkbox" id"car"> idhar for ke liye id ka same hona zaruri hai istarahn agr ham input pr bhi click krengay tu checkbox check hojayega and etc etc.
+12. Add type=button in button to make it act like a button inside form without it every button inside form will gonna submit it. 
+
